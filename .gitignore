@@ -1,0 +1,10 @@
+/.venv
+/venv
+/.vscode
+*.code-workspace
+__pycache__/
+*.egg-info/
+
+# outputs of build/ and graphs/ (created when the scripts run)
+/generated
+/images
